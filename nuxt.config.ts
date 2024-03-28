@@ -16,6 +16,10 @@ export default defineNuxtConfig({
   //   '/': { redirect: '/homeView' }
   // },
 
+  image: {
+    dir: 'src/public'
+  },
+
   modules: ["@nuxt/image", "nuxt-swiper", "@vesp/nuxt-fontawesome"],
 
 });
