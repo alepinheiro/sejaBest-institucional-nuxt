@@ -28,7 +28,7 @@
           class="flex flex-col gap-2 md:gap-4 lg:gap-4 xl:gap-4 lg:w-7/12 xl:w-7/12 mx-auto opacity-0"
         >
           <img
-            src="/images/Home/bankPartners.png"
+            src="/images/home/bankPartners.png"
             alt="A melhor plataforma multibancos."
             class=""
           />
