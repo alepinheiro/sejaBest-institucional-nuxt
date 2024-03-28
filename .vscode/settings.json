@@ -1,0 +1,10 @@
+{
+    "typescript.validate.enable": true,
+    "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+    "typescript.tsserver.useSyntaxServer": "always",
+    "cSpell.words": [
+        "utms"
+    ],
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "css.customData": [".vscode/tailwind.json"]
+}
