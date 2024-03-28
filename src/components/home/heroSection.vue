@@ -4,17 +4,17 @@
       class="flex flex-col max-w-7xl lg:max-w-5xl md:max-w-2xl mx-auto w-full min-md:min-h-screen justify-center"
     >
       <NuxtImg
-        src="images/Home/heroBackground-sm.png"
+        src="images/home/heroBackground-sm.png"
         class="aspect-square min-md:hidden object-cover"
         alt=""
       />
       <NuxtImg
-        src="images/Home/heroBackground-xl.png"
+        src="images/home/heroBackground-xl.png"
         class="hidden xl:block absolute inset-0 h-screen object-contain -right-48 ml-auto -z-10"
         alt=""
       />
       <NuxtImg
-        src="images/Home/heroBackground-lg.png"
+        src="images/home/heroBackground-lg.png"
         class="hidden lg:block absolute inset-0 h-screen object-contain -right-24 ml-auto -z-10"
         alt=""
       />
