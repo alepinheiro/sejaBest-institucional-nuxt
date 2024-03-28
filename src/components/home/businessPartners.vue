@@ -17,7 +17,7 @@
         ></p>
       </div>
       <div class="flex md:flex-col gap-8 items-center w-fit mx-auto">
-        <NuxtImg
+        <img
           ref="phone"
           :src="`/images/home/simulatorOnPhoneMockup-${type}.png`"
           alt="A melhor plataforma multibancos."
