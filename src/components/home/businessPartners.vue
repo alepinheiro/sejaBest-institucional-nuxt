@@ -19,7 +19,7 @@
       <div class="flex md:flex-col gap-8 items-center w-fit mx-auto">
         <img
           ref="phone"
-          :src="`/images/Home/simulatorOnPhoneMockup-${type}.png`"
+          :src="`/images/home/simulatorOnPhoneMockup-${type}.png`"
           alt="A melhor plataforma multibancos."
           class="h-128 hidden min-md:block opacity-0"
         />
