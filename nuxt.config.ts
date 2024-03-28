@@ -12,15 +12,4 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-
-  // routeRules: {
-  //   '/': { redirect: '/homeView' }
-  // },
-
-  image: {
-    dir: 'src/public/'
-  },
-
-
-
 });

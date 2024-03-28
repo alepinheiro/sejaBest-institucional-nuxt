@@ -17,7 +17,7 @@
         ></p>
       </div>
       <div class="flex md:flex-col gap-8 items-center w-fit mx-auto">
-        <img
+        <NuxtImg
           ref="phone"
           :src="`/images/home/simulatorOnPhoneMockup-${type}.png`"
           alt="A melhor plataforma multibancos."
@@ -27,8 +27,8 @@
           ref="banks"
           class="flex flex-col gap-2 md:gap-4 lg:gap-4 xl:gap-4 lg:w-7/12 xl:w-7/12 mx-auto opacity-0"
         >
-          <img
-            src="/images/home/bankPartners.png"
+          <NuxtImg
+            src="images/home/bankPartners.png"
             alt="A melhor plataforma multibancos."
             class=""
           />
